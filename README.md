@@ -1,4 +1,4 @@
 # version_control
 Get familiar with version control basics
 
-Add two additional functions; add and subtract.
+This repository contains two python script and a shell script that will allow users to do basic math calculation.
